@@ -1,7 +1,7 @@
 # Euro 2024 Winner Prediction
 
 TL;DR: This project uses a Multi-Layer Perceptron (MLP) neural network to predict the winner of the Euro 2024 football tournament. 
-According to the predictions, Spain wins the tournament, eliminating the host country Germany in the quarterfinals and the previous winner, Italy, in the round semi-finals.
+According to the predictions, Spain wins the tournament, eliminating the host country Germany in the quarterfinals and the previous winner, Italy, in the semi-finals.
 
 # Data
 I utilize two different datasets for this project:
